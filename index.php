@@ -74,6 +74,11 @@
             </div>
             <div class="row sanny-header">
                 <div class="col-md-2 col-md-offset-5 col-xs-10 col-xs-offset-1">
+                    <div class="year">
+                        <span>
+                            2014
+                        </span>
+                    </div>
                     <img src="assets/images/KeKjQbdL2RU.jpg" alt="Pavel Sannikov" class="img-circle img-responsive" >
                 </div>
             </div>

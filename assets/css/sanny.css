@@ -5776,9 +5776,23 @@ button.close {
   background-image: -webkit-radial-gradient(circle, #8e44ad, #ba87d0);
   background-image: radial-gradient(circle, #8e44ad, #ba87d0);
   background-repeat: no-repeat;
-  height: 300px;
+  padding: 30px;
+  height: auto;
+}
+.sanny-header .year {
+  position: absolute;
+  top: 0;
+  background: #fff;
+  border-radius: 50px;
+  padding: 20px 10px;
+  border: 1px solid #666666;
+}
+.sanny-header .year span {
+  vertical-align: middle;
+  font-weight: bold;
+  font-size: 24px;
 }
 .sanny-header img {
-  margin: auto 0;
+  display: block;
   border: 2px solid #fff;
 }
