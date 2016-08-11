@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #9C27B0;
+    font-family: Ubuntu;
+}
+
+.center {
+    width: 520px;
+    padding: 10px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -260px;
+    margin-top: -110px;
+    text-align: center;
+}
+
+.center h1 {
+    color: #FF9800;
+    font-size: 70px;
+    text-shadow: 1px 1px 2px #fff; /* Параметры тени */
+}
+
+.email {
+    font-size: 28px;
+    color: #fff;
+}
