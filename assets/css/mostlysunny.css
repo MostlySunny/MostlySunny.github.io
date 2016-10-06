@@ -18,8 +18,7 @@ body {
 
 .center h1 {
     color: #FF9800;
-    font-size: 70px;
-    text-shadow: 1px 1px 2px #fff; /* Параметры тени */
+    font-size: 3em;
 }
 
 .email {
